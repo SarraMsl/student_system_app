@@ -7,7 +7,7 @@ inserted  student information in database using api (php&java)
 link:https://github.com/SarraMsl/student_system_app
 <br>
 <br>
-Musselmal sarra with nardjis belonis
+Mousselmal sarra with nardjis belonis
 <br>
 <br>
 <a href="https://ibb.co/ZmHMJq7"><img src="https://i.ibb.co/KwNrGTS/Screenshot-2023-12-12-235527.png" alt="Screenshot-2023-12-12-235527" border="0"></a>
