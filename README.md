@@ -17,7 +17,7 @@ Mousselmal sarra with nardjis belonis
 <br>
 <br>
 <a href="https://ibb.co/dJfvyr7"><img src="https://i.ibb.co/Dg1FntL/Screenshot-2023-12-12-23-05-58-916-com-example-myapplication.jpg" alt="Screenshot-2023-12-12-23-05-58-916-com-example-myapplication" border="0"></a>
-Sure, here's a translation into English:
+
 
 ### First Step: Interface Description
 This XML code represents the initial step in creating an Android application interface. It comprises various user interface elements:
