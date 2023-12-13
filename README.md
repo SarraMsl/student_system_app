@@ -24,7 +24,7 @@ The Android application showcased here is designed to manage student information
 
 This project serves as a learning and demonstration platform for integrating Android applications with remote APIs. It showcases the fundamental steps involved in connecting an Android app to a backend service for data exchange and management.
 
---- 
+
 <br>
 <br>
 
