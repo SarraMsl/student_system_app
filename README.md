@@ -1,6 +1,6 @@
-### Introduction to the Android Application 
+# Introduction to the Android Application 
 # #tp 3 student_system 
-# By Mousselmal sarra with nardjis belonis
+ By Mousselmal sarra with nardjis belonis
 
 The Android application showcased here is designed to manage student information through interaction with a remote API. This project focuses on integrating various essential elements of Android development, including user interface design, API communication, and data handling.
 
