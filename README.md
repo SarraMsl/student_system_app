@@ -27,11 +27,17 @@ This project serves as a learning and demonstration platform for integrating And
 --- 
 <br>
 <br>
+
+### Adding Data to the Database
+<br>
 <a href="https://ibb.co/ZmHMJq7"><img src="https://i.ibb.co/KwNrGTS/Screenshot-2023-12-12-235527.png" alt="Screenshot-2023-12-12-235527" border="0"></a>
 <br>
 <br>
 <a href="https://ibb.co/KVP0qYv"><img src="https://i.ibb.co/6DMnP2C/Screenshot-2023-12-12-232928.png" alt="Screenshot-2023-12-12-232928" border="0"></a>
 <br>
+<br>
+
+### When the Application Starts
 <br>
 <a href="https://ibb.co/dJfvyr7"><img src="https://i.ibb.co/Dg1FntL/Screenshot-2023-12-12-23-05-58-916-com-example-myapplication.jpg" alt="Screenshot-2023-12-12-23-05-58-916-com-example-myapplication" border="0"></a>
 
